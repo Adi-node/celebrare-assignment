@@ -1,0 +1,7 @@
+- generic [ref=e2]:
+  - generic [ref=e5]:
+    - generic [ref=e6]: Search
+    - textbox "Search" [active] [ref=e7]:
+      - /placeholder: Filter by author name
+      - text: Adrien
+  - paragraph [ref=e219]: No photos found for "Adrien"
